@@ -1,0 +1,122 @@
+#principal{
+    width: 250px;
+    height: 350px;
+    background-color:transparent;
+    border: 10px solid rgb(4, 0, 255);
+    margin: 10px;
+    border-radius: 100px;
+}
+#som{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(45, 45, 212);
+    top: -20px;
+    position: absolute;
+    left:50px ;
+}
+#bre{
+    width: 260px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+    top:20px ;
+    left: 20px;
+    
+}
+#uno{
+    width: 60px; 
+    height: 80px;
+    background-color: transparent;
+    border: 5px solid rgb(232, 8, 191); 
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 35px;
+    top: 65px;
+}
+#uno1{
+    width: 60px; 
+    height: 80px;
+    background-color:transparent;
+    
+    border-radius: 100px;
+    border: 5px solid rgb(17, 222, 78);
+    display: inline-block;
+    position: relative;
+    left: 85px;
+    top: 65px;
+ }
+ #re{
+    width: 40px; 
+    height: 60px;
+    background-color: rgb(22, 233, 68);
+    border-radius: 100px;
+    display: inline-block;
+    position: absolute;
+    left: 60px;
+    top: 110px;
+ }
+ #ti{
+    width: 40px; 
+    height: 60px;
+    background-color: rgb(22, 233, 29);
+    border-radius: 100px;
+    display: inline-block;
+    position: absolute;
+    left: 180px;
+    top: 110px;
+ }
+#dos{
+    width: 220px;
+    height: 120px;
+    background-color: yellow;
+    margin: 20px;
+    display: inline-block;
+    position: fixed;
+    top: 210px;
+    border-radius: 70px;
+    left: 25px;
+
+}
+#tres{
+    width: 180px;
+    height: 80px;
+    background-color: rgb(43, 226, 89);
+    display: inline-block;
+    position: fixed;
+    top: 230px;
+    border-radius: 70px;
+    left: 45px;
+    margin: 20px;
+}
+#tres-1{
+    width: 50px;
+    height: 50px ;
+    background-color: rgb(207, 15, 15);
+    
+    position:relative;
+    top: 70px;
+    
+    left:100px ;
+    transform: rotate(); 
+    border-radius: 100px;
+}
+#vo {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(217, 91, 207);
+    margin: 20px;
+    position: absolute;
+    top: 260px;
+    border-radius: 40% / 0 0 100% 100%; 
+    left: 55px;
+}
+#hair {
+    width: 130px;
+    height: 20px;
+    background-color: rgb(54, 21, 8); 
+    position: absolute; 
+    top: 50px; 
+    left: 0px; 
+    border-radius: 0 0 70% 70%; 
+}
